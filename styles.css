@@ -1,0 +1,175 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {}
+
+.Topheader {
+    height: 20px;
+    background-color:#180148;
+    font-size: 18px;
+	border: 3px solid #180148;
+	padding:2px;
+		
+}
+
+.Header {
+    height: 100px;
+    background-color: white;
+    font-size: 15px;
+    border: 3px solid #180148;
+	text-align:center;
+}
+.mail{
+float:left;
+color:white;
+text-decoration:none;
+}
+.insta{
+float:right;
+color:white;
+}
+
+.logo img{
+	border-radius:80%;
+	border-width:68%;
+	height:45%;
+	
+}
+.login a{
+	FONT-SIZE:20px;
+	color:white;
+	text-decoration:none;
+	
+	
+}
+.logo{
+	width:2%;
+	float:left;
+	font-size:1px;
+}
+.foodie{
+	width:32%;
+	float:left;
+	FONT-SIZE:35px;
+	color:green;
+	height:20px;
+}
+.login{
+	width:8%;float:right;
+	background-color:green;
+	padding:2px;
+	margin-right:25px;
+	border-radius:5px;
+	text-align:centre;
+	
+}
+.guntur{
+	float:right;
+	padding:4px;
+	font-size:20px;
+	color:green;
+	
+}
+.login:hover{
+	background-color:#180148;
+}
+
+
+.row
+{
+	border:5px;
+	
+	padding:25px;
+	
+	
+}
+
+.Menubar {
+    height: 40px;
+	background-color:white;
+	border: 3px solid #180148;
+	
+	
+}
+
+.Bodypart {
+    height: 600px;
+	background-color:white;
+	border: 3px solid #180148;
+	font-size:15;
+}
+.Footer
+{
+	 height: 160px;
+	background-color:white;
+	border: 3px solid #180148;
+	font-size:15;
+}
+.Menubar{
+	background-color:#180148;
+}
+.menubar ul{
+	width:100%;
+	list-style-type:none;
+	
+}
+.menubar ul li{
+	float:left;
+	margin:10px 111px;
+}
+.menubar ul li a{
+text-decoration:none;
+color:white;
+font-size:18px;
+padding:5px;
+font-weight:bold;
+
+}
+.menubar ul li a:hover{
+color:pink;
+background-color:white;
+
+}
+.Bodypart h1{
+	
+	text-align:center;
+	color:#c6256;
+	font-size:30px;
+	padding:20px;
+	padding-bottom:15px;
+	
+	
+}
+.locations{
+	width:80%;
+	padding-top:5px;
+	margin:0 auto auto;
+}
+.locationdiv{
+	width:180px;
+	border:1px solid lightgrey;
+	box-shadow:2px 4px green;
+	border-radius:10px;
+	height:200px;
+	float:left;
+	margin:23px 8px;
+	
+	
+}
+.locationdiv img{
+	width:100%;
+	border-radius:10px;
+	height:120px;
+}
+.locationdiv a{
+	text-decoration:none;
+	font-size:25px;
+	color:#c6256;
+	padding:20px;
+}
+
+	
+
+	
